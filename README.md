@@ -24,7 +24,8 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">
+  Hey there 👋</h1>
 
 ###
 
@@ -32,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Prem from Coimbatore<br><br>- 🔭 I’m working as a dev<br>- 📚 I'm currently learning NodeJs & React<br>- ⚡ In my free time I do leetcode</p>
+<p align="left">I'm Prem from Chennai<br><br>- 🔭 I’m working as a dev<br>- 📚 Diving into DotNET now<br>- ⚡ Vanga konjam pesalam...!</p>
 
 ###
 
